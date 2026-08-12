@@ -1,0 +1,18 @@
+{
+  "project": "Leakage-Controlled Dynamic Comparator Using 45nm CMOS",
+  "architecture": "Double-tail dynamic latch comparator",
+  "leakage_technique": "LECTOR",
+  "technology": "45nm CMOS",
+  "technology_library": "GPDK045",
+  "supply_voltage_V": 1.8,
+  "frequency_MHz": 250,
+  "total_power_uW": 6.492,
+  "leakage_power_uW": 0.75,
+  "average_delay_ps": 31.57,
+  "pdp_fJ": 205,
+  "energy_per_cycle_fJ": 25.96,
+  "total_power_reduction_percent": 92.46,
+  "leakage_power_reduction_percent": 98.17,
+  "pdp_improvement_percent": 91.14,
+  "source": "Submitted project report"
+}
